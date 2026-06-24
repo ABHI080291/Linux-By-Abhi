@@ -3,6 +3,7 @@
 **NAVIGATION & FILE VIEWING (9 Commands)
 #CommandWhat it does**
 
+
 1 pwd - Print Working Directory - Shows the full path of the current folder you're in
 
 2 cd - Change Directory - Navigate to a different folder (e.g., cd /var, cd .., cd ~)
@@ -21,7 +22,9 @@
 
 9 history -  History - Shows list of all previously executed commands with line numbers
 
+
 **FILE OPERATIONS (6 Commands)**
+
 
 10 mkdir - Make Directory - Create a new folder (e.g., mkdir newfolder)
 
@@ -37,6 +40,7 @@
 
 
 **SYSTEM MONITORING (9 Commands)** 
+
 
 16 df-  Disk Free - Shows disk space usage of all mounted filesystems (e.g., df -h shows in human-readable format like GB/MB)
 
@@ -56,7 +60,9 @@
 
 24 hostname - Hostname - Shows the computer's network name. hostname -i shows IP address
 
+
 **USER & GROUP MANAGEMENT (8 Commands)**
+
 
 25 whoami - Who Am I - Shows the currently logged-in username
 
@@ -76,6 +82,8 @@
 
 
 **USER & GROUP FILE VIEWING (4 Commands)**
+
+
 #CommandWhat it does33getentGet Entries - View user/group database (e.g., getent group shows all groups, getent passwd shows all users)34cat /etc/passwdShows all user accounts on system (contains: username, UID, GID, home directory, shell)35cat /etc/shadowShows password hashes (only root can view). Contains encrypted passwords and age info36cat /etc/groupShows all groups and their members
 
 PASSWORD & ACCOUNT POLICIES (1 Command)
