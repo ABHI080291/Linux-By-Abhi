@@ -241,12 +241,6 @@ dd if=/dev/zero of=/dev/sda # ❌ DO NOT RUN - Destroys data
 
 We welcome contributions! Here's how you can help:
 
-### Report Issues
-Found an error or unclear explanation? [Open an Issue](https://github.com/yourusername/linux-commands-guide/issues)
-
-### Suggest Improvements
-Have a better example or explanation? [Submit a Pull Request](https://github.com/yourusername/linux-commands-guide/pulls)
-
 ### Add New Content
 Want to add new commands? Follow the existing format and submit a PR.
 
@@ -279,9 +273,8 @@ to use, copy, modify, merge, publish, and distribute...
 
 **Created for Linux learners everywhere** 🐧
 
-- 📧 Contact: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- 📧 Contact: [your-email@example.com](mailto:abhivg4784@gmail.com)
+- 💼 LinkedIn: [your-profile](https://linkedin.com/in/abhishekkumar-cloud)
 
 ---
 
@@ -295,15 +288,14 @@ to use, copy, modify, merge, publish, and distribute...
 
 ## 📚 Additional Resources
 
-### Official Documentation
-- [Linux Manual Pages](https://man7.org/)
-- [Ubuntu Documentation](https://help.ubuntu.com/)
-- [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/)
-
 ### Learning Platforms
+
+- https://youtu.be/e01GGTKmtpc?si=Yq45QlZHJiGsaHg6
+- https://youtu.be/29eDuMjsEF8?si=ipkfjI-GvADSGbQT
 - [Linux Academy](https://linuxacademy.com/)
 - [Udemy Linux Courses](https://www.udemy.com/courses/search/?q=linux)
 - [Coursera Linux Courses](https://www.coursera.org/search?query=linux)
+
 
 ### Cheat Sheets
 - [Linux Cheat Sheet](https://www.cheatsheet.guru/linux.html)
@@ -320,13 +312,6 @@ to use, copy, modify, merge, publish, and distribute...
 
 ---
 
-## 📞 Support
-
-Having trouble? Check these resources:
-
-1. **Search existing issues**: [Issues](https://github.com/yourusername/linux-commands-guide/issues)
-2. **Check FAQ section** below
-3. **Open a new issue** with details
 
 ### FAQ
 
@@ -366,7 +351,7 @@ cat LINUX_COMMANDS_REFERENCE.md
 
 ## 📌 Latest Updates
 
-- **v1.0.0** (Jan 2025) - Initial release with 60+ commands
+- **v1.0.0** (June 2026) - Initial release with 60+ commands
 - **v1.1.0** (Planned) - Add advanced networking section
 - **v1.2.0** (Planned) - Add system administration section
 
@@ -374,5 +359,5 @@ cat LINUX_COMMANDS_REFERENCE.md
 
 **Happy Learning! 🚀**
 
-Last updated: January 2025  
+Last updated: June 2026
 Made with ❤️ for Linux learners
