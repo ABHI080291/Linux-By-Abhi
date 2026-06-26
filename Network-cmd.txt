@@ -1,0 +1,38 @@
+**NETWORK COMMANDS - COMPLETE LIST**
+
+1️⃣ VIEWING NETWORK INTERFACES
+CommandPurposeifconfigShow IP address, MAC address, network interface detailsifplugstatusCheck if network cable is connected/disconnected
+
+2️⃣ NETWORK CONNECTIONS & PORTS
+CommandPurposenetstatShow active connections, listening ports, routing tablessModern replacement for netstat - shows socket statistics
+
+3️⃣ DNS LOOKUP
+CommandPurposenslookupQuery DNS - get IP address from domain name (e.g., nslookup google.com)digDetailed DNS lookup - shows all DNS records (e.g., dig google.com)
+
+4️⃣ ROUTING
+CommandPurposerouteShow or manage routing table - where packets go (e.g., route shows routing paths)tracerouteTrace path to destination - shows all hops/servers between you and target
+
+5️⃣ DOMAIN INFO
+CommandPurposewhoisShow domain registration info and owner details
+
+6️⃣ BASIC CONNECTIVITY
+CommandPurposepingTest if host is reachable (already mentioned earlier)curlFetch data from URLs / check connectivity (already mentioned earlier)
+
+NETWORK COMMANDS PRIORITY
+🔴 CRITICAL - Learn First
+
+ifconfig - Know your IP address
+ping - Test basic connectivity
+nslookup / dig - DNS resolution
+
+🟡 VERY IMPORTANT
+
+netstat / ss - Monitor connections
+traceroute - Troubleshoot network path
+route - Understand routing
+
+🟠 IMPORTANT
+
+whois - Domain lookup
+ifplugstatus - Check cable status
+
